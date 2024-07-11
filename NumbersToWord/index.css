@@ -1,0 +1,8 @@
+.roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+body{
+    background-image: url('images.jpg');
+}
